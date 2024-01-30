@@ -1,0 +1,1 @@
+avg_queries = 148.0000, avg_l2_norm = 1.6852, avg_linf_norm = 0.2000, avg_succs = 1.0000 
